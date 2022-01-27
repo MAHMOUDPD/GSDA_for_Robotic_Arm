@@ -2,8 +2,8 @@
 This is an implementation of the proposed Generalized Structured Diagonal Algorithm based on diagonal Hessian approximation
 to solve a 3DOF(degrees of freedom) planar robot arm, manipulator.
 
-The GSDA.m contains the implementation of the 3-DOF robotic model.
-The GSDAfor3DOF.m is where the above GSDA.m is called, and simulations are carried out.
+##GSDA.m contains the implementation of the 3-DOF robotic model.
+##GSDAfor3DOF.m is where the above GSDA.m is called, and simulations are carried out.
 
 
 If you find this implementation valuable to your work, kindly consider citing the following works:
